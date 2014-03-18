@@ -4,7 +4,7 @@ Sigma
 This is my first Python text game. It's a text-based RPG. Sort of like LoZ and Skyrim. You solve puzzles and fight monsters. 
 
 For the puzzles I would recommend solving some of them using pen and paper. Some are math puzzles others are logical and practical reasoning.
-==============================================================
+===============================================================
 
 TO RUN THE FILE:
 
@@ -60,6 +60,6 @@ There are too many Linux distros for me to do instructions on. It's similar to O
 
 
 
-==============================================================
+===============================================================
 
 
