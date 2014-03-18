@@ -17,7 +17,7 @@ You should see  '>>>'
 3.) If you don't then you don't have Python installed. Go to the website and install it.
 3b.) If you do, then type 'exit()' in the terminal. It should return to normal.
 4.) When you do have python, open up Powershell and change directories to the folder with the .py file.
-5.) To do this type 'cd Some\_Folder' in the terminal (w/o quotes). Where Some_Folder is the folder you want.
+5.) To do this type 'cd Some_Folder' in the terminal (w/o quotes). Where Some_Folder is the folder you want.
 EXAMPLE
 Say the .py file is in C:\Users\John Smith\Documents\Sigma\
 
