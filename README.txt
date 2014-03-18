@@ -23,7 +23,7 @@ Say the .py file is in C:\Users\John Smith\Documents\Sigma\
 
 You would type:
 cd Users
-cd 'John Smith'        <---- (Quotes needed if there is a space in the folder/file name_
+cd 'John Smith'    <---- (Quotes needed if there is a space in the folder/file name)
 cd Documents
 cd Sigma
 
