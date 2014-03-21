@@ -4,6 +4,8 @@ Sigma
 This is my first Python text game. It's a text-based RPG. Sort of like LoZ and Skyrim. You solve puzzles and fight monsters. 
 
 For the puzzles I would recommend solving some of them using pen and paper. Some are math puzzles others are logical and practical reasoning.
+
+Also, your chances of defeating a normal enemy and escaping will depend on the type of weapon your choose. If you choose a light weapon (1H-Sword) then you'll have a greater chance to escape but a less chance to kill. Vice versa with a heavy weapon (2H-Sword).
 ===============================================================
 
 TO RUN THE FILE:
