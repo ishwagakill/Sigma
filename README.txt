@@ -13,26 +13,9 @@ TO RUN THE FILE:
 WINDOWS:
 ==========
 
-1.) Go run Windows Powershell. You can search this on the start menu.
-2.) When you have it, type 'python' (w/o quotes) in the terminal.
-You should see  '>>>'
-3.) If you don't then you don't have Python installed. Go to the website and install it.
-3b.) If you do, then type 'exit()' in the terminal. It should return to normal.
-4.) When you do have python, open up Powershell and change directories to the folder with the .py file.
-5.) To do this type 'cd Some_Folder' in the terminal (w/o quotes). Where Some_Folder is the folder you want.
-EXAMPLE
-Say the .py file is in C:\Users\John Smith\Documents\Sigma\
+1.) Double-click the Sigma.py file
 
-You would type:
-cd Users
-cd 'John Smith'    <---- (Quotes needed if there is a space in the folder/file name)
-cd Documents
-cd Sigma
-
-6.) Once you are in the folder with the .py file type the following in the terminal.
-python -W ignore Sigma.py
-
-7.) The game should start
+2.) The game should start
 
 
 
@@ -50,7 +33,7 @@ python -W ignore Sigma.py
 
 6.) The game should start
 
-If you don't know how to change directories go find out. It is similar to Windows so just try to figure out by looking at those directions.
+If you don't know how to change directories go find out.
 
 
 
