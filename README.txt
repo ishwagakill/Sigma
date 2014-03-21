@@ -1,5 +1,9 @@
 Sigma
 =====
+YOU WILL NEED PYTHON 2.7.6 TO PLAY THIS GAME. DOWNLOAD PYTHON FROM https://www.python.org/download/
+
+===============================================================
+
 
 This is my first Python text game. It's a text-based RPG. Sort of like LoZ and Skyrim. You solve puzzles and fight monsters. 
 
