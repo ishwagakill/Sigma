@@ -22,6 +22,8 @@ WINDOWS:
 MAC OSX:
 ==========
 
+See if you can double-click the file open like in Windows, if not then follow steps below.
+
 1.) Open Terminal
 2.) Type 'python' (w/o) quotes in the terminal.
 You should see '>>>'
@@ -29,8 +31,7 @@ You should see '>>>'
 3b.) If you do have it, type 'exit()' in the terminal. It should return back to normal.
 4.) When you have python, change directories to the folder with the .py file.
 5.) Once you are in the folder with the .py file type the following in the terminal.
-python -W ignore Sigma.py
-
+python Sigma.py
 6.) The game should start
 
 If you don't know how to change directories go find out.
