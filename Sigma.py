@@ -41,21 +41,6 @@ def restart_program():
 def clear_scrn():
 	"""Clears the interpreter screen."""
 	os.system(['clear','cls'][os.name == 'nt'])
-
-def reward_room():
-	"""Function block for reward room."""
-	
-	print "Ah, you finally made it to the last room. Go ahead and open the chest"
-	
-	while True:
-		next = raw_input("> ")
-		
-		if "open" in next:
-			print "You open it and get the Ring of Chaos!"
-			raw_input()
-			outside()
-		else:
-			print "You really should open the chest. There is an important item inside."
 		
 
 def dead():
@@ -63,11 +48,12 @@ def dead():
 	
 	print "Game over."
 	raw_input()
-	print "Do you want to play again?"
+	print "Do you want to play again? (Y/n)"
 	while True:
 		next = raw_input("> ")
 		
 		if 'Y' in next or 'y' in next:
+			clear_scrn()
 			restart_program()
 		elif 'N' in next or 'n' in next:
 			exit(0)
@@ -974,5 +960,5 @@ def end_game():
 	raw_input()
 	exit(0)
 
+clear_scrn()
 start()
-
