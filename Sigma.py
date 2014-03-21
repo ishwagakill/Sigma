@@ -63,7 +63,16 @@ def dead():
 	
 	print "Game over."
 	raw_input()
-	exit(0)
+	print "Do you want to play again?"
+	while True:
+		next = raw_input("> ")
+		
+		if 'Y' in next or 'y' in next:
+			restart_program()
+		elif 'N' in next or 'n' in next:
+			exit(0)
+		else:
+			print "Please type 'Y' or 'n'."
 					
 		
 def start():
